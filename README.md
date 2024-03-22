@@ -22,7 +22,7 @@ https://voluble-faloodeh-6a6e49.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/singhxayush/chat-app-server.git
+  git clone https://github.com/singhxayush/CHAT-APP-SERVER
 ```
 
 Go to the project directory
@@ -76,7 +76,6 @@ Start the Client
 ![](https://github.com/Karanvaibhav/Mern-Chat-App./blob/master/screenshots/Add%20or%20Remove%20User.png)
 
 ## Made By
-
-- [@Twitter](https://twitter.com/sinxayush)
+- [@singhxayush](https://github.com/singhxayush)
 
   
