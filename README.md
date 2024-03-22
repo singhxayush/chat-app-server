@@ -78,6 +78,6 @@ Start the Client
 ![](https://github.com/Karanvaibhav/Mern-Chat-App./blob/master/screenshots/Profile%20View.png)
 ## Made By
 
-- [@Karanvaibhav](https://github.com/Karanvaibhav)
+- [@Twitter](https://twitter.com/sinxayush)
 
   
