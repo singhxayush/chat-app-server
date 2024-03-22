@@ -22,7 +22,7 @@ https://voluble-faloodeh-6a6e49.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Karanvaibhav/Mern-Chat-App.
+  git clone https://github.com/singhxayush/chat-app-server.git
 ```
 
 Go to the project directory
