@@ -74,8 +74,7 @@ Start the Client
 ![](https://github.com/Karanvaibhav/Mern-Chat-App./blob/master/screenshots/Group%20Chat.png)
 ### Add or Remove users from group
 ![](https://github.com/Karanvaibhav/Mern-Chat-App./blob/master/screenshots/Add%20or%20Remove%20User.png)
-### View Other user Profile
-![](https://github.com/Karanvaibhav/Mern-Chat-App./blob/master/screenshots/Profile%20View.png)
+
 ## Made By
 
 - [@Twitter](https://twitter.com/sinxayush)
